@@ -1,4 +1,4 @@
-# Team Develpoment
+# Team Development
 
 An introductory example of developing scripts for ScriptRunner in the team on GitHub.
 
