@@ -3,7 +3,7 @@
 
 <#
     .SYNOPSIS
-         Lists computers where disabled or inactive
+         Lists computers where disabled or inactive(2)
     
     .DESCRIPTION  
 
