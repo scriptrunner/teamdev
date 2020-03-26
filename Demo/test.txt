@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hahah meine ich HP heute
 =======
 <<<<<<< HEAD
@@ -22,4 +23,7 @@ hahah sagt der Clown gestern nichtddd
 >>>>>>> Development
 =======
 hahah sagt der Clown gestern nichtdddcc
+>>>>>>> Development
+=======
+hahah sagt der Clown gestern nichtdddcc bin bei 60%s
 >>>>>>> Development
