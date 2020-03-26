@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hahah meine ich HP heute
 =======
 <<<<<<< HEAD
@@ -6,4 +7,7 @@ hahah meine ich HP heute ist Donnerstag
 =======
 hahah sagt der Clown
 >>>>>>> f8e202b9623d4795a297920bc204b059ae19a1ed
+>>>>>>> Development
+=======
+hahah sagt der Clown gestern
 >>>>>>> Development
